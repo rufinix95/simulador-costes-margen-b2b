@@ -40,9 +40,13 @@ Esta herramienta transforma el flujo de trabajo de ventas, permitiendo a los com
 
 ---
 
-## 🛠️ Stack Tecnológico Utilizado
-* **Lenguaje:** Lógica estructurada para la automatización de procesos de negocio.
-* **Arquitectura:** Aplicación de escritorio compilada (.exe) optimizada para el procesamiento local de datos de tarificación corporativa.
+## 🛠️ Stack Tecnológico y Metodología de Desarrollo
+
+Este software fue diseñado y desplegado adoptando metodologías modernas de desarrollo ágil y automatización:
+
+* **Lenguaje de Programación:** Python (utilizando librerías para la construcción de interfaces gráficas locales y procesamiento lógico de datos financieros).
+* **Entorno de Desarrollo (IDE):** Visual Studio Code (VS Code).
+* **Metodología de Desarrollo (AI-Assisted Development):** El diseño conceptual, la arquitectura del software y la lógica matemática de tarificación fueron estructurados de forma autodidacta mediante **Ingeniería de Prompts avanzada e Inteligencia Artificial**. 
 
 ---
 
